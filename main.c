@@ -63,7 +63,6 @@ void r_truthtable(int* table, int pos, int finish) {
 int main(void) {
 	int n;
 	int* table;
-	int** i_table;
 	scanf("%d", &n);
 	printf("<n = %d> Truth Table\n\n", n);
 	
